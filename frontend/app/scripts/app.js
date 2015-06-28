@@ -2,14 +2,14 @@
 
 /**
  * @ngdoc overview
- * @name frontendApp
+ * @name moodFrontApp
  * @description
- * # frontendApp
+ * # moodFrontApp
  *
  * Main module of the application.
  */
 angular
-  .module('frontendApp', [
+  .module('moodFrontApp', [
     'ngCookies',
     'ngResource',
     'ngRoute',
